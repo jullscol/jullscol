@@ -2,8 +2,7 @@
 <h3 align="center">Enthusiasm is the catalyst to empower knowledge, I'm excited to work as a web developer.</h3>
 
 
-
-- 🔭 I’m currently working on [BookScape](https://github.com/zimlama/BookScapeFront)
+- 🔭 I’m currently working on [e-commerce](https://github.com/jullscol/PF_Grupal)
 
 - 🌱 I’m currently learning **Python**
 
